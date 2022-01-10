@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/justin-lourie-cole/tic-tac-toe/static/css/main.e6c13ad2.css",
+    "main.js": "/justin-lourie-cole/tic-tac-toe/static/js/main.dfda2dec.js",
+    "static/js/787.f6623041.chunk.js": "/justin-lourie-cole/tic-tac-toe/static/js/787.f6623041.chunk.js",
+    "index.html": "/justin-lourie-cole/tic-tac-toe/index.html",
+    "main.e6c13ad2.css.map": "/justin-lourie-cole/tic-tac-toe/static/css/main.e6c13ad2.css.map",
+    "main.dfda2dec.js.map": "/justin-lourie-cole/tic-tac-toe/static/js/main.dfda2dec.js.map",
+    "787.f6623041.chunk.js.map": "/justin-lourie-cole/tic-tac-toe/static/js/787.f6623041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dfda2dec.js"
+  ]
+}
